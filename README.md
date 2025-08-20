@@ -96,7 +96,7 @@ O projeto mostrou que é possível prever o consumo de água com boa precisão a
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/regressao_consumo_agua.git
+   git clone https://github.com/jaoAprendiz/regressao_consumo_agua.git
    ```
 2. Acesse a pasta do projeto:
 
