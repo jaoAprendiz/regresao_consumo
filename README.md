@@ -120,7 +120,3 @@ O projeto mostrou que é possível prever o consumo de água com boa precisão a
 ## ✨ Autor
 
 Projeto desenvolvido por **João Victor Soave** 👨‍💻 como estudo de **Regressão Linear aplicada ao consumo de água**.
-
----
-
-👉 Quer que eu já gere também um **requirements.txt** com base nas bibliotecas usadas no notebook?
